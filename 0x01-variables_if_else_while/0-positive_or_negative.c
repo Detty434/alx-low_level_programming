@@ -29,4 +29,8 @@ else if (n < 0)
          printf("%i is negative/n" , n);
  Return (0);
 }
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 2146ce35d31e2727b004e7c3ded9547e85e5924b
