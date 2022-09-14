@@ -1,6 +1,7 @@
+#include <stdio.h>
 #include "main.h"
 
-int task 0(int)
+'int 0-putchar.c(int n)'
 {
     _putchar("Task 0 is complete : %d\n);
     
